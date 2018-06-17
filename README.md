@@ -1,8 +1,5 @@
 # drag_and_drop
 
-A new Flutter application.
+Drag and drop practice ! Cool
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## Nahuel Cabrera
